@@ -43,6 +43,8 @@ Para ser más ágiles te propongo unos sencillos pasos para tener todo a punto e
 
 ⏰ 5-10 minutos.
 
+> Dado que TypeScript compila en JavaScript es necesario tener conocimientos de JavaScript para entender lo que estamos haciendo.
+
 ㅤ
 
 ### 1. Editor de código
