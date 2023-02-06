@@ -51,7 +51,7 @@ Para ser más ágiles te propongo unos sencillos pasos para tener todo a punto e
 
 Usaremos Visual Studio Code para la explicación.
 
-👉 Si no quieres usar VSC, el [playground online de TypeScript] puede ser de ayuda.
+👉 Si no quieres usar VSC, el [playground online de TypeScript](https://www.typescriptlang.org/play) puede ser de ayuda.
 
 ㅤ
 
@@ -73,7 +73,7 @@ Lanza este comando y verás la versión instalada
 
 En mi caso `Version 4.9.5`
 
-👉 Aquí explican [como instalarlo] en detalle
+👉 Aquí explican [como instalarlo](https://www.typescriptlang.org/download) en detalle
 
 ㅤ
 
@@ -88,7 +88,7 @@ Para comprobar que todo esta en orden sigue estos pasos:
 5. Te debería aparecer un fichero `start.js` en la misma carpeta.
 6. Ejecuta `node start.js` y verás el saludo en la terminal.
 
-👉 Aquí más detalles sobre el [uso con Visual Studio Code]
+👉 Aquí más detalles sobre el [uso con Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript)
 
 
 **¡Estas listo\a para empezar!** 🥳
