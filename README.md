@@ -34,7 +34,16 @@ Tienes que ser suscriptor premium de Web Reactiva
 - El ponente (Dani) irá explicando conceptos y proponiendo ejercicios que estarán en este repositorio
 - Cada asistente podrá resolverlos en su propio ordenador.
 - Es OBLIGADO tener a punto los requisitos para empezar el taller (leer aquí abajo)
+ㅤ
 
+## 📚 ¿Qué temas va a tener?
+
+1. Configuración del entorno
+2. Tipos básicos
+3. Enums
+4. Colecciones
+5. Uniones y tipos literales
+6. Interfaces
 ㅤ
 
 ## ✅ Requisitos para empezar el taller
