@@ -42,8 +42,10 @@ Tienes que ser suscriptor premium de Web Reactiva
 2. Tipos básicos
 3. Enums
 4. Colecciones
-5. Uniones y tipos literales
-6. Interfaces
+5. Uniones, tipos literales y alias
+6. Any y unknown
+7. Funciones tipadas
+8. Interfaces
 ㅤ
 
 ## ✅ Requisitos para empezar el taller
@@ -98,6 +100,16 @@ Para comprobar que todo esta en orden sigue estos pasos:
 6. Ejecuta `node start.js` y verás el saludo en la terminal.
 
 👉 Aquí más detalles sobre el [uso con Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript)
+
+ㅤ
+
+### 4. Extra de comodidad
+
+No es estrictamente necesario para el taller, pero me verás usar estas dos extensiones, sobre todo la primera:
+
+- [Quokka](https://quokkajs.com/): Resultados en tiempo real sin abrir la terminal
+- [Coderunner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Ejecuta el código del fichero con una combinación de teclas
+
 
 
 **¡Estas listo\a para empezar!** 🥳
