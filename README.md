@@ -94,7 +94,13 @@ Para comprobar que todo esta en orden sigue estos pasos:
 
 1. Crea una nueva carpeta en tu ordenador y llámala `taller-typescript`
 2. Abre la carpeta en Visual Studio Code
-3. Crea un fichero con el nombre `start.ts` y copia este código dentro: `let message: string = 'Hola Malandriner'; console.log(message);
+3. Crea un fichero con el nombre `start.ts` y copia este código dentro: 
+
+```ts
+let message: string = 'Hola Malandriner';
+ console.log(message);
+```
+
 4. En la consola de VSC o en tu terminal (dentro de la carpeta `taller-typescript`) ejecuta este comando: `tsc start.ts` (En Windows `tsc .\start.ts`)
 5. Te debería aparecer un fichero `start.js` en la misma carpeta.
 6. Ejecuta `node start.js` y verás el saludo en la terminal.
