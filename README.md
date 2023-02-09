@@ -111,5 +111,15 @@ No es estrictamente necesario para el taller, pero me verás usar estas dos exte
 - [Coderunner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Ejecuta el código del fichero con una combinación de teclas
 
 
+## 🤓 Referencias
+
+- Curso oficial en castellano: [Compilación de aplicaciones JavaScript con TypeScript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/)
+- [Fundamentos de TypeScript ](https://dev.to/duxtech/series/16063)
+- TypeScript in 50 lessons (libro)
+
 
 **¡Estas listo\a para empezar!** 🥳
+
+---
+
+➡️ Vete a `/steps/ex01.md`
