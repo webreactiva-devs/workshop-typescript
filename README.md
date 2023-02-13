@@ -1,4 +1,5 @@
-> Taller en directo con suscriptores de Web Reactiva para aprender las características principales del lenguaje TypeScript.
+> Taller en directo con suscriptores de Web Reactiva para aprender las características principales del lenguaje TypeScript. 
+> 📽 [Hemos grabado el taller en vídeo.](https://www.webreactiva.com/cursos/masterclass/taller-de-introduccion-a-typescript)
 
 ![cover-taller-typescript](https://user-images.githubusercontent.com/1122071/216855443-773dc121-4c57-40dd-b9ee-8d4bd356ac19.png)
 
