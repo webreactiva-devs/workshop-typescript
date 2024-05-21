@@ -1,6 +1,5 @@
 > Taller en directo con suscriptores de Web Reactiva para aprender las características principales del lenguaje TypeScript. 
-> 
-> 📽 [Hemos grabado el taller en vídeo.](https://www.webreactiva.com/cursos/masterclass/taller-de-introduccion-a-typescript)
+>
 
 ![cover-taller-typescript](https://user-images.githubusercontent.com/1122071/216855443-773dc121-4c57-40dd-b9ee-8d4bd356ac19.png)
 
@@ -32,10 +31,10 @@ Tienes que ser suscriptor premium de Web Reactiva
 
 ## 🛠¿Cómo funciona el taller?
 
-- Tendremos una primera sesión online en directo el 9 de Febrero a las 19:00 CET (en punto ;)
+- Tendremos una primera sesión online en directo el 23 de Mayo a las 19:00 CET (en punto ;)
 - El ponente (Dani) irá explicando conceptos y proponiendo ejercicios que estarán en este repositorio
 - Cada asistente podrá resolverlos en su propio ordenador.
-- Es OBLIGADO tener a punto los requisitos para empezar el taller (leer aquí abajo)
+- Es MUY RECOMENDABLE tener a punto los requisitos para empezar el taller (leer aquí abajo)
 ㅤ
 
 ## 📚 ¿Qué temas va a tener?
@@ -84,7 +83,7 @@ Lanza este comando y verás la versión instalada
 
 `tsc --version`
 
-En mi caso `Version 4.9.5`
+En mi caso `Version 5.4.5`
 
 👉 Aquí explican [como instalarlo](https://www.typescriptlang.org/download) en detalle
 
@@ -113,7 +112,7 @@ let message: string = 'Hola Malandriner';
 
 ### 4. Extra de comodidad
 
-No es estrictamente necesario para el taller, pero me verás usar estas dos extensiones, sobre todo la primera:
+No es estrictamente necesario para el taller, pero pueed ser interesante:
 
 - [Quokka](https://quokkajs.com/): Resultados en tiempo real sin abrir la terminal
 - [Coderunner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Ejecuta el código del fichero con una combinación de teclas
