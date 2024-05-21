@@ -71,7 +71,7 @@ Usaremos Visual Studio Code para la explicación.
 
 Seguiremos la recomendación de instalar globalmente TypeScript. 
 
-(Debes tener instalado node.js en tu ordenador)
+(Debes tener instalado [node.js](https://nodejs.org/en) en tu ordenador)
 
 Para la instalación ejecuta en la terminal (da igual la carpeta)
 
